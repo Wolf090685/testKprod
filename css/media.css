@@ -27,7 +27,7 @@
 }
 @media (max-width: 600px) {
     .container {
-        max-width: 445px;
+        max-width: 345px;
     }  
     .our-works__title {
         font-size: 2.2rem;
